@@ -1,4 +1,5 @@
 # Hi this is my portfolio
-My backend
-https://server-my-profile.herokuapp.com/api/descriptions
-https://server-my-profile.herokuapp.com/api/links
+
+
+## This is the frontend part of https://github.com/Kseroks/my-profile-server
+
